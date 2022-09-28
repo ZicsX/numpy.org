@@ -7,13 +7,23 @@ NumPy is a community-driven open source project developed by a diverse group of 
 
 We offer several communication channels to learn, share your knowledge and connect with others within the NumPy community.
 
-
 ## Participate online
 
 The following are ways to engage directly with the NumPy project and community.
 _Please note that we encourage users and community members to support each other
 for usage questions - see [Get Help](/gethelp)._
 
+### [NumPy Community Meetings](https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=v8pteabdrvr7pv0n2a2pje739e0f7591%40import.calendar.google.com&amp;color=%23AD1457&amp;color=%23EF6C00&amp;color=%23616161&amp;color=%23F6BF26&amp;color=%239E69AF)
+
+The NumPy community meets online every other Wednesday. The meetings are open
+to the public, and anyone is welcome to join and participate.
+
+The meetings are held via Zoom, and the recordings are posted on YouTube afterwards.
+For more information, see the [NumPy YouTube Channel](https://www.youtube.com/c/NumPy_team/videos) to view video recordings of the previous events.
+
+The following  lists all upcoming NumPy community events.
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=v8pteabdrvr7pv0n2a2pje739e0f7591%40import.calendar.google.com&amp;color=%23AD1457&amp;color=%23EF6C00&amp;color=%23616161&amp;color=%23F6BF26&amp;color=%239E69AF" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ### [NumPy mailing list](https://mail.python.org/mailman/listinfo/numpy-discussion)
 
@@ -46,13 +56,11 @@ Please see
 [here](https://numpy.org/devdocs/dev/index.html#contributing-to-numpy) for more
 details and how to get an invite.
 
-
 ## Study Groups and Meetups
 
 If you would like to find a local meetup or study group to learn more about NumPy and the wider ecosystem of Python packages for data science and scientific computing, we recommend exploring the [PyData meetups](https://www.meetup.com/pro/pydata/) (150+ meetups, 100,000+ members).
 
 NumPy also organizes in-person sprints for its team and interested contributors occasionally. These are typically planned several months in advance and will be announced on the [mailing list](https://mail.python.org/mailman/listinfo/numpy-discussion) and [Twitter](https://twitter.com/numpy_team).
-
 
 ## Conferences
 
@@ -67,10 +75,8 @@ The NumPy project doesn't organize its own conferences. The conferences that hav
 
 Many of these conferences include tutorial days that cover NumPy and/or sprints where you can learn how to contribute to NumPy or related open source projects.
 
-
 ## Join the NumPy community
 
 To thrive, the NumPy project needs your expertise and enthusiasm. Not a coder? Not a problem! There are many ways to contribute to NumPy.
 
 If you are interested in becoming a NumPy contributor (yay!) we recommend checking out our [Contribute](/contribute) page.
-
